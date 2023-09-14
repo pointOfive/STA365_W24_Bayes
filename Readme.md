@@ -27,13 +27,13 @@
 1. sbayes theorem basics, beta-binomial, bayesian bandit
 2. normal-normal, conjugate and other types of priors
 3. gibbs sampling and PyMC
-4. metropolis hastings
-5. metropolis within gibbs
+4. metropolis hastings and metropolis within gibbs
+5. mixture models
 6. Midterm 
-7. mixture models
-8. hierarchical "random effects" models and information sharing
-9. more interesting priors: shrinkage, multiplicity adjustment, etc.
-10. Bayes Factors?
+7. hierarchical "random effects" models and information sharing
+8. more interesting priors: shrinkage, multiplicity adjustment, etc.
+9. Bayes Factors?
+10. Variational Inference
 11. HMC, SG-MCMC, LMC
 12. BDL
 13. Couse Projects
