@@ -3,7 +3,7 @@
 ## [Course Learning Outcomes](https://tatp.utoronto.ca/teaching-toolkit/supporting-students/cdg/lesson-design/outcomes/#:~:text=The%20CTSI%20Guide%20on%20Developing,will%20be%20useful%20to%20them.)
 
 - Ability to perform applied Bayesian analysis from simple to moderate complexity on real world data sets.
-    - Bayesian analysis is genearlly considered the "gold standard" of uncertainty quantification since the Bayesian paradigm is fully predicated on propegating data model uncertainty into parameter posterior inference.
+    - Bayesian analysis is generally considered the "gold standard" of uncertainty quantification since the Bayesian paradigm is predicated on careful specification of the data generating mechanism to fully capture the variability and dependency structure present within the data, and fully and coherrently propegating that uncertainty into parameter posterior inference.
     - Demonstrated capability in applied Bayesian analysis communicates to industry practitioners and academic researchers alike a strong understanding of and commitment to characterizing and respecting uncertainty
       during the data analysis process, and subsequently utilizing data driven information about uncertainty as part of downstream decision making efforts. 
 - Ability to use Python and PyMC to implement Bayesian analyses, including creating specifications for unique data generating mechanisms and associated hierarchical modelling inference structures.
