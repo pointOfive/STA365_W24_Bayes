@@ -10,7 +10,7 @@
     - Python is an undeniably ubiquitous programming language present in both industrial and academic contexts, and can greatly faciliate the speed and scale at which data analyses can be carried out.
     - PyMC in particular is a highly popular probabilistic programming language which provides universal sampling of arbitrary data generating mechanisms and prior specifications
       that is generally effective and computationally efficient for many modeling and analysis purposes.
-- Ability to evaluate, critque, and troubleshoot Bayesian modeling specifications and code producing Bayesian analyses, including assessing the influence of choices regarding priors and other modelling choices and decisions, interpreting model convergence and performance diagnostics, and providing posterior inference analysis and interpretation after modeling fitting and/or sampling.
+- Ability to evaluate, critque, and troubleshoot Bayesian modeling specifications and code producing Bayesian analyses, including assessing the influence of choices regarding priors and other modelling choices and decisions, interpreting model convergence and performance diagnostics, and providing posterior inference analysis and interpretation after modeling fitting and/or sampling and validation.
     - A true practitioner of Bayesian analysis must be able to assess, criticize, and utilize the inputs and outputs of a Bayesian posterior analysis
       since being unable to do so could result in unreliable and misleading statistical analysis and inference.
 - Gain familiarity with the historical development of Bayesian Analysis and exposure to its current advanced forms and manifestations, including modern Markov Chain Monte Carlo (MCMC) sampling methods such as
