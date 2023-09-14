@@ -6,7 +6,7 @@
     - Bayesian analysis is genearlly considered the "gold standard" of uncertainty quantification since the Bayesian paradigm is fully predicated on propegating data model uncertainty into parameter posterior inference.
     - Demonstrated capability in applied Bayesian analysis communicates to industry practitioners and academic researchers alike a strong understanding of and commitment to characterizing and respecting uncertainty
       during the data analysis process, and subsequently utilizing data driven information about uncertainty as part of downstream decision making efforts. 
-- Ability to use Python and PyMC to implement Bayesian analyses, including creating specifications for unique data generating mechanisms and associated model hierarchical inference structures.
+- Ability to use Python and PyMC to implement Bayesian analyses, including creating specifications for unique data generating mechanisms and associated hierarchical modelling inference structures.
     - Python is an undeniably ubiquitous programming language present in both industrial and academic contexts, and can greatly faciliate the speed and scale at which data analyses can be carried out.
     - PyMC in particular is a highly popular probabilistic programming language which provides universal sampling of arbitrary data generating mechanisms and prior specifications
       that is generally effective and computationally efficient for many modeling and analysis purposes.
