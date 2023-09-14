@@ -12,7 +12,7 @@
       that is generally effective and computationally efficient for many modeling and analysis purposes.
 - Ability to evaluate, critque, and troubleshoot Bayesian modeling specifications and code producing Bayesian analyses, including assessing the influence of choices regarding priors and other modelling choices and decisions, interpreting model convergence and performance diagnostics, and providing posterior inference analysis and interpretation after modeling fitting and/or sampling and validation.
     - A true practitioner of Bayesian analysis must be able to assess, criticize, and utilize the inputs and outputs of a Bayesian posterior analysis
-      since being unable to do so could result in unreliable and misleading statistical analysis and inference.
+      since being unable to do so could result in unreliable and misleading statistical inference analysis and poor or wrong conclusions and decisions.
 - Gain familiarity with the historical development of Bayesian Analysis and exposure to its current advanced forms and manifestations, including modern Markov Chain Monte Carlo (MCMC) sampling methods such as
   Hamiltonian Monte Carlo (HMC), Langevin Monte Carlo (LMC), and Stochastic Gradient MCMC (SG-MCMC) as well as Bayesian Deep Learning (BDL).
     - While this is a course in "Applied" Bayesian analysis, some degree of familiarity with the more formal theoretrical aspects of the development of Bayesian analysis are expected of professional Bayesian
