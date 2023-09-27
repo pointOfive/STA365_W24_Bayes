@@ -25,7 +25,7 @@
 ## Tentative Weekly Topics
 1. Bayes Theorem, Beta-Binomial, Bayesian bandit
 2. Normal-Normal, Conjugate and other Priors
-3. Gibbs sampling, `PyMC`, and Autocorrelation 
+3. Gibbs sampling Normal-Gamma, Probabilistic Programming with `PyMC`, and Autocorrelation 
 4. Metropolis-Hastings, [Adaptive Squeezed Rejection Sampling?], Hamiltonian Monte Carlo, Diagnostics
 5. Multivariate Normal, Inverse-Wishart, LKJ (Cholesky) prior
 6. Midterm 
