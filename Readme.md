@@ -23,18 +23,18 @@
       
 
 ## Tentative Weekly Topics
-1. sbayes theorem basics, beta-binomial, bayesian bandit
-2. normal-normal, conjugate and other types of priors
-3. gibbs sampling and PyMC
-4. multivariate normal, Inverse-Wishart, and LKJ models
-5. metropolis hastings, metropolis within gibbs, adaptive rejection sampling
+1. Bayes Theorem, Beta-Binomial, Bayesian bandit
+2. Normal-Normal, Conjugate and other Priors
+3. Gibbs sampling, `PyMC`, and Autocorrelation 
+4. Metropolis-Hastings, [Adaptive Squeezed Rejection Sampling?], Hamiltonian Monte Carlo, Diagnostics
+5. Multivariate Normal, Inverse-Wishart, LKJ (Cholesky) prior
 6. Midterm 
-7. mixture models and latent variables
-8. hierarchical "random effects" models and information sharing
-9. more interesting priors: shrinkage, multiplicity adjustment, etc. Bayes Factors? 
+7. Latent Variables and Mixture Models
+8. Hierarchical "Random Effects" Models and Information Sharing
+9. Cool Priors: shrinkage, multiplicity adjustment, Bayes Factors? 
 10. Variational Inference
-11. HMC, SG-MCMC, LMC
-12. BDL
+11. Gradient-based MCMC: SG-MCMC, LMC/SGLD
+12. Bayesian Deep Learning (BDL)
 13. Couse Projects
 
 
