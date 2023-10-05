@@ -28,14 +28,14 @@
 3. Gibbs sampling Normal-Gamma, Probabilistic Programming with `PyMC`, and Autocorrelation 
 4. Metropolis-Hastings, Hamiltonian Monte Carlo, Diagnostics
      - Optional: Adaptive Squeezed Rejection Sampling and Slice Sampling
-6. Multivariate Normal, Inverse-Wishart, LKJ (Cholesky) prior
-7. Midterm 
-8. Latent Variables and Mixture Models
-9. Hierarchical "Random Effects" Models and Information Sharing
-10. Cool Priors: shrinkage, multiplicity adjustment, Bayes Factors? 
-11. Variational Inference
-12. Gradient-based MCMC: SG-MCMC, LMC/SGLD
-13. Bayesian Deep Learning (BDL)
-14. Couse Projects
+5. Bayesian Multiple Linear Regression, Inverse-Wishart and LKJ (Cholesky) priors and Multivariate Linear Models 
+6. Midterm 
+7. Latent Variables and Mixture Models
+8. Hierarchical "Random Effects" Models and Information Sharing
+9. Cool Priors: shrinkage, multiplicity adjustment, Bayes Factors? 
+10. Variational Inference
+11. Gradient-based MCMC: SG-MCMC, LMC/SGLD
+12. Bayesian Deep Learning (BDL)
+13. Couse Projects
 
 
