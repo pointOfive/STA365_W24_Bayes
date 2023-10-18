@@ -28,7 +28,7 @@
 3. Gibbs sampling Normal-Gamma, Probabilistic Programming with `PyMC`, and Autocorrelation 
 4. Metropolis-Hastings, Hamiltonian Monte Carlo, Diagnostics
      - Optional: Adaptive Squeezed Rejection Sampling and Slice Sampling
-5. Bayesian Multiple Linear Regression, Inverse-Wishart and LKJ (Cholesky) priors and Multivariate Linear Models 
+5. Bayesian Multiple Linear Regression, Inverse-Wishart and LKJ (Cholesky) priors and Multivariate Normal Distributions
 6. Midterm 
 7. GLMs, Hierarchical Modeling, Multiplicity adjustment, Variable Selection, Shrinkage, Robust Regression  
 8. Latent Variables and Mixture Models 
