@@ -30,10 +30,10 @@
      - Optional: Adaptive Squeezed Rejection Sampling and Slice Sampling
 5. Bayesian Multiple Linear Regression, Inverse-Wishart and LKJ (Cholesky) priors and Multivariate Linear Models 
 6. Midterm 
-7. Latent Variables and Mixture Models
-8. Hierarchical "Random Effects" Models and Information Sharing
-9. Cool Priors: shrinkage, multiplicity adjustment, Bayes Factors? 
-10. Variational Inference
+7. GLMs, Hierarchical Modeling, Multiplicity adjustment, Variable Selection, Shrinkage, Robust Regression  
+8. Latent Variables and Mixture Models 
+9. Hierarchical "Random Effects" Models and Information Sharing, Bayes Factors?
+10. Variational Inference 
 11. Gradient-based MCMC: SG-MCMC, LMC/SGLD
 12. Bayesian Deep Learning (BDL)
 13. Couse Projects
