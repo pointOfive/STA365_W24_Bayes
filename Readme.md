@@ -31,8 +31,8 @@
 5. Bayesian Multiple Linear Regression, Inverse-Wishart and LKJ (Cholesky) priors and Multivariate Normal Distributions
 6. Midterm 
 7. GLMs, Hierarchical Modeling, Multiplicity adjustment, Variable Selection, Shrinkage, Robust Regression  
-8. Latent Variables and Mixture Models 
-9. Hierarchical "Random Effects" Models and Information Sharing, Bayes Factors?
+8. Hierarchical "Random Effects" Models and Information Sharing, Bayes Factors?
+9. Latent Variables and Mixture Models and Bayesian missing value imputation
 10. Variational Inference 
 11. Gradient-based MCMC: SG-MCMC, LMC/SGLD
 12. Bayesian Deep Learning (BDL)
