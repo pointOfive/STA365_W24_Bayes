@@ -22,7 +22,7 @@
       in a relatively accessible manner.
       
 
-## Course (Weekly) Topics
+## Course Topics by Week
 1. Bayes Theorem, Beta-Binomial, Bayesian bandit
 2. Normal-Normal, Conjugate and other Priors
 3. Gibbs sampling Normal-Gamma, Probabilistic Programming with `PyMC`, and Autocorrelation 
