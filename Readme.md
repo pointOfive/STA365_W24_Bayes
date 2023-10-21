@@ -32,7 +32,7 @@
 6. Midterm
 7. Reading Week
 8. GLMs, Hierarchical Modeling, Multiplicity adjustment, Variable Selection, Shrinkage, Robust Regression  
-9. Bayes Factors, Effective Model Size, Genealization and Model Selection (WAIC, LOO-CV, etc.), and Random Effects Models 
+9. Bayes Factors, Effective Model Size, Generalization/Overfitting, Model Selection (WAIC, LOO-CV, etc.), and Random Effects Models 
 10. Mixture Models, Latent/Missing value imputation, and Variational Inference 
 11. Gradient-based MCMC: SG-MCMC, LMC/SGLD
 12. Bayesian Deep Learning (BDL)
