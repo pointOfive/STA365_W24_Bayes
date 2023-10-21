@@ -29,11 +29,11 @@
 4. Metropolis-Hastings, Hamiltonian Monte Carlo, Diagnostics
      - Optional: Adaptive Squeezed Rejection Sampling and Slice Sampling
 5. Bayesian Multiple Linear Regression, Inverse-Wishart and LKJ (Cholesky) priors and Multivariate Normal Distributions
-6. Midterm 
-7. GLMs, Hierarchical Modeling, Multiplicity adjustment, Variable Selection, Shrinkage, Robust Regression  
-8. Bayes Factors, Effective Model Size, Genealization and Model Selection (WAIC, LOO-CV, etc.), and Random Effects Models 
-9. Latent Variables and Mixture Models and Bayesian missing value imputation
-10. Variational Inference 
+6. Midterm
+7. Reading Week
+8. GLMs, Hierarchical Modeling, Multiplicity adjustment, Variable Selection, Shrinkage, Robust Regression  
+9. Bayes Factors, Effective Model Size, Genealization and Model Selection (WAIC, LOO-CV, etc.), and Random Effects Models 
+10. Mixture Models, Latent/Missing value imputation, and Variational Inference 
 11. Gradient-based MCMC: SG-MCMC, LMC/SGLD
 12. Bayesian Deep Learning (BDL)
 13. Couse Projects
