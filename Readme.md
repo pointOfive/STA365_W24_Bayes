@@ -35,7 +35,7 @@
 9. Bayes Factors, Effective Model Size, Generalization/Overfitting, Model Selection (WAIC, LOO-CV, etc.), and Random Effects Models 
 10. Mixture Models, Latent/Missing value imputation, and Variational Inference 
 11. Gradient-based MCMC: SG-MCMC, LMC/SGLD
-12. Bayesian Deep Learning (BDL)
+12. Gaussian Processes and Bayesian Deep Learning (BDL)
 13. Couse Projects
 
 
