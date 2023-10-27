@@ -33,9 +33,9 @@
 7. Reading Week
 8. GLMs, Hierarchical Modeling, Multiplicity adjustment, Variable Selection, Shrinkage, Robust Regression  
 9. Bayes Factors, Effective Model Size, Generalization/Overfitting, Model Selection (WAIC, LOO-CV, etc.), and Random Effects Models 
-10. Dirichlet Process Mixture Models  
-11. Gradient-based MCMC: SG-MCMC, LMC/SGLD (Langevin Monte Carlo), Variational Inference, Latent/Missing value imputation,
-12. Gaussian Processes and Bayesian Deep Learning (BDL)
+10. (Nonparametric) Dirichlet Process Mixture Models and Latent/Missing Value Imputation
+11. (Nonparametric) Gaussian Processes and Variational Inference
+12. Optimization is Bayes? Variational Inference, Bayesian Deep Learning (BDL), and (Stochastic) Gradient-based MCMC [Langevin Monte Carlo (LMC/SGLD) and SG-MCMC]
 13. Couse Projects
 
 
